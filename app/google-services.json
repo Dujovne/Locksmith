@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330237962764",
+    "project_id": "locksmith-270d5",
+    "storage_bucket": "locksmith-270d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330237962764:android:ff0ba34725d4a7aff95c29",
+        "android_client_info": {
+          "package_name": "com.example.locksmith_guydujovne_finalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDosTEyUJIcqy3DFl-SNUXMFJmnYXfkRUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
